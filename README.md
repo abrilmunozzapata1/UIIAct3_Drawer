@@ -26,8 +26,8 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/abrilmunozzapata1/UIIAct3_Drawer/assets/143549033/95c3aecc-da19-4809-9bb3-9a2e96f1465d)
 ![image](https://github.com/abrilmunozzapata1/UIIAct3_Drawer/assets/143549033/e2765178-429d-48bb-81a6-1eff400ae291)
 ![image](https://github.com/abrilmunozzapata1/UIIAct3_Drawer/assets/143549033/2e70bbb6-2054-47d5-bc79-d27aa0c7448c)
-![image](https://github.com/abrilmunozzapata1/UIIAct3_Drawer/assets/143549033/69ae234d-7a48-4282-a28a-2bc9dfd8ec3d)
-![image](https://github.com/abrilmunozzapata1/UIIAct3_Drawer/assets/143549033/68cae3ad-d899-4ba3-b438-6d16676077f6)
+
+![image](https://github.com/abrilmunozzapata1/UIIAct3_Drawer/assets/143549033/4228e5cb-6910-4e3f-8f89-ab7275db0254)
 
 links 
 ![image](https://github.com/abrilmunozzapata1/UIIAct3_Drawer/assets/143549033/1e837f2b-9a8c-4886-a6b0-b4346d0dd2e5)
